@@ -12,7 +12,7 @@ I 💙 Programming 💻| I 🖤 Space 🚀| I 💛 Games 🕹
 
 I'm from Jalisco - México 🌮
 
-I studied Javascript |ReactJS | NextJS | Sass | Styled Components
+You can ask me about Javascript | ReactJS | NextJS | Preprocessors | Styled Components | Auth0 
 
 I am a junior developer constantly learning, right now I am learning Angular, Vue, advanced ReactJS and NextJS 📈
 
