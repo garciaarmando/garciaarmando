@@ -6,7 +6,7 @@ Platzi Master's Student.
 
 ## About me
 
-Programing 💻| Space 🚀| Games 🕹
+I 💙 Programming 💻| I 🖤 Space 🚀| I 💛 Games 🕹
 
 I'm from Jalisco - México
 
