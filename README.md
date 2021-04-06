@@ -4,6 +4,8 @@ Front-end Developer
 
 Platzi Master's Student.
 
+You can contact me sending an email to <a href="mailto:armandobfmv@gmail.com">armandobfmv@gmail.com</a>
+
 ## About me
 
 I 💙 Programming 💻| I 🖤 Space 🚀| I 💛 Games 🕹
