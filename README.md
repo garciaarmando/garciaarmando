@@ -15,6 +15,7 @@ I studied Javascript |ReactJS | NextJS | Sass | Styled Components
 I am a junior developer constantly learning
 
 🔭 I am working on my personal blog, expect updates very soon!
+
 🌱 I’m currently learning Angular, Vue advanced ReactJS and NextJS
 
 ## Social Media
