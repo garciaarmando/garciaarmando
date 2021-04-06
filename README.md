@@ -1,22 +1,20 @@
 ## Hi, I'm Armando ⚡
 
-Front-end Developer
+Front-end Developer ⚛
 
-Platzi Master's Student.
+Platzi Master's Studend 💚
 
-You can contact me sending an email to <a href="mailto:armandobfmv@gmail.com">armandobfmv@gmail.com</a>
+You can contact me sending an email to <a href="mailto:armandobfmv@gmail.com">armandobfmv@gmail.com</a> 📧
 
 ## About me
 
 I 💙 Programming 💻| I 🖤 Space 🚀| I 💛 Games 🕹
 
-I'm from Jalisco - México
+I'm from Jalisco - México 🌮
 
 I studied Javascript |ReactJS | NextJS | Sass | Styled Components
 
-I am a junior developer constantly learning
-
-🔭 I am working on my personal blog, expect updates very soon!
+I am a junior developer constantly learning 📈
 
 🌱 I’m currently learning Angular, Vue advanced ReactJS and NextJS
 
