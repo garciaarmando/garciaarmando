@@ -10,9 +10,7 @@ You can contact me sending an email to <a href="mailto:armandobfmv@gmail.com">ar
 
 I 💙 Programming 💻| I 🖤 Space 🚀| I 💛 Games 🕹
 
-I'm from Jalisco - México 🌮
-
-I am a junior developer constantly learning, right now I am learning Angular, Vue, advanced ReactJS and NextJS 📈
+I'm from México 🌮 and I'm a junior developer constantly learning, right now I am learning Angular, Vue, advanced ReactJS and NextJS 📈
 
 Feel you free to ask me about Javascript | ReactJS | NextJS | Preprocessors | Styled Components | Auth0 
 
