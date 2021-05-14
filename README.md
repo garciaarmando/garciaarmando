@@ -2,7 +2,7 @@
 
 Front-end Developer ⚛
 
-Platzi Master's Studend 💚
+Platzi Master's student 💚
 
 You can contact me sending an email to <a href="mailto:armandobfmv@gmail.com">armandobfmv@gmail.com</a> 📧
 
